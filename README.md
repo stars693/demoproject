@@ -1,2 +1,2 @@
 # demoproject
-demo project for jenkins integration
+demo project
